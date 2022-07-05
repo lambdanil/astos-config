@@ -1,0 +1,20 @@
+# flatpak --app list --columns=app
+# flatpak install $(cat flatpak-list)
+ar.com.tuxguitar.TuxGuitar
+com.discordapp.Discord
+com.github.tchx84.Flatseal
+com.github.wwmm.easyeffects
+com.google.Chrome
+com.spotify.Client
+com.usebottles.bottles
+com.valvesoftware.Steam
+io.github.antimicrox.antimicrox
+io.qt.QtCreator
+org.audacityteam.Audacity
+org.develz.Crawl
+org.gimp.GIMP
+org.kde.kdenlive
+org.kde.krita
+org.mozilla.firefox
+org.pulseaudio.pavucontrol
+org.winehq.Wine
