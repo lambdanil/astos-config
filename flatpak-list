@@ -1,5 +1,3 @@
-# flatpak --app list --columns=app
-# flatpak install $(cat flatpak-list)
 ar.com.tuxguitar.TuxGuitar
 com.discordapp.Discord
 com.github.tchx84.Flatseal
