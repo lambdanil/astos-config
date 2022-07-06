@@ -1,4 +1,10 @@
 #!/bin/bash
+
+# To get pacman package list:
+#     comm -23 <(pacman -Qqett | sort) <(pacman -Qqg base-devel -g gnome -g gnome-extra | sort | uniq)
+# To get flatpak package list:
+#     flatpak --app list --columns=app
+
 # Extract /etc files
 tar -xvf ./etc.tar.xz
 
