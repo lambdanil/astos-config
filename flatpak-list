@@ -11,9 +11,11 @@ io.qt.QtCreator
 org.audacityteam.Audacity
 org.develz.Crawl
 org.gimp.GIMP
+org.gnome.Aisleriot
+org.kde.gwenview
 org.kde.kdenlive
 org.kde.krita
 org.mozilla.firefox
 org.pulseaudio.pavucontrol
 org.winehq.Wine
-org.gnome.Aisleriot
+org.yamagi.YamagiQ2
